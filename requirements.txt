@@ -1,11 +1,11 @@
 streamlit
 pandas
 openpyxl
-numpy<2.0.0
+numpy==1.26.4
 scikit-learn
 xgboost
 lightgbm
 plotly
 matplotlib
-shap==0.44.1
-numba==0.59.0
+shap==0.49.1
+numba==0.65.1
