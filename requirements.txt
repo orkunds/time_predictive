@@ -7,5 +7,5 @@ xgboost
 lightgbm
 plotly
 matplotlib
-shap
-numba
+shap==0.44.1
+numba==0.59.0
