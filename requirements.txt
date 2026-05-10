@@ -1,0 +1,20 @@
+# Temel Web Uygulama Çerçevesi
+streamlit
+
+# Veri İşleme ve Analiz
+pandas
+openpyxl
+numpy
+
+# Makine Öğrenmesi ve Model Yükleme
+scikit-learn
+xgboost
+lightgbm
+
+# Görselleştirme ve Açıklanabilirlik
+plotly
+shap
+matplotlib
+
+# Dosya ve Sistem Araçları (Opsiyonel ama önerilir)
+pickle5; python_version < '3.8'
